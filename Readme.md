@@ -1,3 +1,3 @@
 #chai aur backend series 
 
-this is vied series on bakend and with java script
+this is video series on bakend and with java script
